@@ -6,8 +6,7 @@ A website developed using javaScript which visualize the different sorting algor
 4. Merge Sort.
 5. Quick Sort.
 
-# Link
-https://cezainmajeed.github.io/Algorithm-Visualizer/
+
 
 
 # Built with 
